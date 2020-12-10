@@ -27,6 +27,7 @@ const email = signupForm['signup-email']; // 'signup-email' is an ID
 signupForm.reset();
 ```
 	- append new html node
+	
 ```JavaScript
 let html = '';
 docs.forEach(doc => {
